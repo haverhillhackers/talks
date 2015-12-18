@@ -4,7 +4,7 @@ Slides, links, etc from talks given at the meetup
 *December 2, 2015*
 [Go Talk][Go Talk] - [Doug Hubler][Doug Hubler]
 
-*January 6, 2015*
+*January 6, 2016*
 [Visualizing Git Internals][Visualizing Git Internals] - [Tony Bargnesi][Tony Bargnesi]
 
 ## Contributing
