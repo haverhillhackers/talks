@@ -7,6 +7,9 @@ Slides, links, etc from talks given at the meetup
 *January 6, 2016*
 [Visualizing Git Internals][Visualizing Git Internals] - [Tony Bargnesi][Tony Bargnesi]
 
+*February 3, 2016*
+[Scrum: Values and Getting Value][Scrum: Values and Getting Value] - [Randy Bone][Randy Bone]
+
 ## Contributing
 1. [Fork the repository][Fork the repository].
 2. Create a branch with the following format `git checkout -b yyyy-mm-dd-name-of-talk`
@@ -15,8 +18,10 @@ Slides, links, etc from talks given at the meetup
 5. Commit your changes
 6. Create a pull request
 
-[Fork the repository]:       https://github.com/haverhillhackers/talks/fork
-[Go Talk]:                   https://github.com/haverhillhackers/talks/blob/master/GoTalk.md
-[Doug Hubler]:               https://github.com/dhubler
-[Visualizing Git Internals]: https://github.com/haverhillhackers/talks/blob/master/VisualizingGitInternals.md
-[Tony Bargnesi]:             https://github.com/abargnesi
+[Fork the repository]:             https://github.com/haverhillhackers/talks/fork
+[Go Talk]:                         https://github.com/haverhillhackers/talks/blob/master/GoTalk.md
+[Doug Hubler]:                     https://github.com/dhubler
+[Visualizing Git Internals]:       https://github.com/haverhillhackers/talks/blob/master/VisualizingGitInternals.md
+[Tony Bargnesi]:                   https://github.com/abargnesi
+[Scrum: Values and Getting Value]: https://github.com/haverhillhackers/talks/blob/master/Scrum_ValuesAndGettingValue.md
+[Randy Bone]:                      http://www.meetup.com/HaverhillHackers/members/1989295/
