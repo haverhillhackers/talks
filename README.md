@@ -1,5 +1,5 @@
 # Haverhill Hackers Talks
-Slides, links, etc from talks given at the meetup
+Slides, videos, links, etc from talks given at the [meetup][meetup].
 
 | When             | Talk                                     | Presenter                      | Video                                                  |
 |------------------|------------------------------------------|--------------------------------|--------------------------------------------------------|
@@ -13,6 +13,7 @@ Slides, links, etc from talks given at the meetup
 3. Commit your changes.
 4. Create a pull request.
 
+[meetup]:                          http://www.meetup.com/HaverhillHackers
 [Fork the repository]:             https://github.com/haverhillhackers/talks/fork
 [Go]:                              https://github.com/haverhillhackers/talks/blob/master/GoTalk.md
 [Git]:                             https://github.com/haverhillhackers/talks/blob/master/VisualizingGitInternals.md
