@@ -10,7 +10,7 @@ of how most Git commands work.
 
 Git can be fun. Construction paper is always fun. This talk should be fun.
 
-## Rough agenda
+Rough agenda:
 
 - Intro.
 - Brief overview of version control
@@ -18,6 +18,14 @@ Git can be fun. Construction paper is always fun. This talk should be fun.
 - Explore the objects in Git
 - Visualize some import Git commands
 - Wrap up, Questions.
+
+### Speaker
+
+Tony Bargnesi ([meetup][meetup] / [twitter][twitter])
+
+### Video
+
+[Watch on youtube.][Watch on youtube.]
 
 ### When?
 
@@ -27,3 +35,7 @@ Wednesday, Jan 6, 2016, 6:15 PM
 
 Haverhil Hackspace (Floor 6)
 143 Essex Street, Suite 600 Haverhill, MA
+
+[meetup]:            http://www.meetup.com/HaverhillHackers/members/63740322/
+[twitter]:           https://twitter.com/abargnesi
+[Watch on youtube.]: https://www.youtube.com/watch?v=ZJ88cIKCt5E
