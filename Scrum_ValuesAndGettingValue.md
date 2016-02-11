@@ -10,7 +10,7 @@ Randy Bone ([meetup][meetup] / [twitter][twitter])
 
 ### Scrum Board
 
-![Scrum Board](resources/scrum_board.jpg)
+![Scrum Board](resources/scrum_board.png)
 
 ### Video
 
