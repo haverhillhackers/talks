@@ -7,7 +7,7 @@ Slides, videos, links, etc from talks given at the [meetup][meetup].
 | January 6, 2016  | [Visualizing Git Internals][Git]           | [Tony Bargnesi][Tony Bargnesi] | [youtube](https://www.youtube.com/watch?v=ZJ88cIKCt5E) |
 | February 3, 2016 | [Scrum: Values and Getting Value][Scrum]   | [Randy Bone][Randy Bone]       | [youtube](https://www.youtube.com/watch?v=XYHrlMzLIvM) |
 | March 2, 2016    | [Real Refactoring][RealRefactoring]        | [John Nadeau][John Nadeau]     | [youtube](https://www.youtube.com/watch?v=vHUpfA1-QKE) |
-| November 2, 2016    | [Software Defined Radio][SoftwareDefinedRadio]        | [Marcel Filimon][Marcel Filimon]     
+| November 2, 2016    | [Software Defined Radio][SoftwareDefinedRadio]     | [Marcel Filimon][Marcel Filimon]     
 |                                                    |
 
 ## Adding a Talk
@@ -22,9 +22,9 @@ Slides, videos, links, etc from talks given at the [meetup][meetup].
 [Git]:                             https://github.com/haverhillhackers/talks/blob/master/VisualizingGitInternals.md
 [Scrum]:                           https://github.com/haverhillhackers/talks/blob/master/Scrum_ValuesAndGettingValue.md
 [RealRefactoring]:                 https://github.com/haverhillhackers/talks/blob/master/RealRefactoring.md
-[SoftwareDefinedRadio]             https://github.com/marcelsdr/talks/blob/master/SoftwareDefinedRadio.md 
+[SoftwareDefinedRadio]:            https://github.com/marcelsdr/talks/blob/master/SoftwareDefinedRadio.md 
 [Doug Hubler]:                     http://www.meetup.com/HaverhillHackers/members/8826794/
 [Tony Bargnesi]:                   http://www.meetup.com/HaverhillHackers/members/63740322/
 [Randy Bone]:                      http://www.meetup.com/HaverhillHackers/members/1989295/
 [John Nadeau]:                     http://www.meetup.com/HaverhillHackers/members/133816442/
-[Marcel Filimon]                   http://www.meetup.com/HaverhillHackers/members/213354043/ 
+[Marcel Filimon]:                  http://www.meetup.com/HaverhillHackers/members/213354043/ 
