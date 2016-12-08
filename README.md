@@ -8,7 +8,7 @@ Slides, videos, links, etc from talks given at the [meetup][meetup].
 | February 3, 2016 | [Scrum: Values and Getting Value][Scrum]         | [Randy Bone][Randy Bone]         | [youtube](https://www.youtube.com/watch?v=XYHrlMzLIvM) |
 | March 2, 2016    | [Real Refactoring][RealRefactoring]              | [John Nadeau][John Nadeau]       | [youtube](https://www.youtube.com/watch?v=vHUpfA1-QKE) |
 | November 2, 2016 | [Software Defined Radio][SoftwareDefinedRadio]   | [Marcel Filimon][Marcel Filimon] |                                                        |
-| December 7, 2016 | [DesignInflectionPoints][DesignInflectionPoints] | [Colin Williams][Colin Williams] | [youtube](https://www.youtube.com/watch?v=b_2RMejbilo  |
+| December 7, 2016 | [DesignInflectionPoints][DesignInflectionPoints] | [Colin Williams][Colin Williams] | [youtube](https://www.youtube.com/watch?v=b_2RMejbilo) |
 
 ## Adding a Talk
 1. [Fork the repository][Fork the repository].
