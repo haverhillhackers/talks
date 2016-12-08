@@ -16,13 +16,14 @@ Colin Williams ([meetup][meetup] / [twitter][twitter])
 
 ### Slides
 
-Slides will be posted shortly.
+[Read on Google Docs][googledoc]
 
 
 ### When?
 
 Wednesday, December 7, 2016, 6:15 PM - 8:15 PM
 
-[meetup]:  https://www.meetup.com/HaverhillHackers/members/4094410/
-[twitter]: https://twitter.com/lackita101
-[youtube]: https://www.youtube.com/watch?v=b_2RMejbilo
+[meetup]:    https://www.meetup.com/HaverhillHackers/members/4094410/
+[twitter]:   https://twitter.com/lackita101
+[youtube]:   https://www.youtube.com/watch?v=b_2RMejbilo
+[googledoc]: https://docs.google.com/presentation/d/1V7hPGfkFvFNHACtLcVhtLqW9Z1jfCMODiXQGwX2rbLU/edit?usp=sharing

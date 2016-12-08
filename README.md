@@ -29,3 +29,4 @@ Slides, videos, links, etc from talks given at the [meetup][meetup].
 [Randy Bone]:                      http://www.meetup.com/HaverhillHackers/members/1989295/
 [John Nadeau]:                     http://www.meetup.com/HaverhillHackers/members/133816442/
 [Marcel Filimon]:                  http://www.meetup.com/HaverhillHackers/members/213354043/ 
+[Colin Williams]:                  https://www.meetup.com/HaverhillHackers/members/4094410/
